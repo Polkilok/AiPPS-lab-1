@@ -17,7 +17,7 @@ public:
 	void PushBack(const _ItemType &Item) {};
 	void PopBack(const _ItemType &Item) {};
 
-	IIterator<_ItemType> Begin();
-	IIterator<_ItemType> End();
+	IIterator<_ItemType> Begin() {};
+	IIterator<_ItemType> End() {};
 };
 
