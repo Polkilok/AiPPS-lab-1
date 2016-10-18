@@ -145,6 +145,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CycleList.h" />
     <ClInclude Include="IContainer.h" />
     <ClInclude Include="IIterator.h" />
   </ItemGroup>
