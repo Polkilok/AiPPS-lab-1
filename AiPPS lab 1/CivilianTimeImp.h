@@ -14,7 +14,7 @@ public:
 
 	/* virtual */
 	void tell() {
-		cout << "time is " << hr_ << ":" << min_ << whichM_ << endl;
+		std::cout << "time is " << hr_ << ":" << min_ << whichM_ << std::endl;
 	}
 protected:
 	char whichM_[4];

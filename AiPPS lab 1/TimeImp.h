@@ -9,7 +9,7 @@ public:
 		min_ = min;
 	}
 	virtual void tell() {
-		cout << "time is " << setw(2) << setfill(48) << hr_ << min_ << endl;
+		std::cout << "time is " << std::setw(2) << std::setfill(48) << hr_ << min_ << std::endl;
 	}
 protected:
 	int hr_, min_;

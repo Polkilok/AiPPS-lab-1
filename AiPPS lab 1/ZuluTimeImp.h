@@ -17,8 +17,8 @@ public:
 
 	/* virtual */
 	void tell() {
-		cout << "time is " << setw(2) << setfill(48) << hr_ << min_ << zone_ <<
-			endl;
+		std::cout << "time is " << std::setw(2) << std::setfill(48) << hr_ << min_ << zone_ <<
+			std::endl;
 	}
 protected:
 	char zone_[30];
