@@ -146,9 +146,13 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CivilianTimeImp.h" />
     <ClInclude Include="CycleList.h" />
     <ClInclude Include="IContainer.h" />
     <ClInclude Include="IIterator.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="TimeImp.h" />
+    <ClInclude Include="ZuluTimeImp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
