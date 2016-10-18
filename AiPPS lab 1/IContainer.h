@@ -1,23 +1,19 @@
 #pragma once
-
 #include "IIterator.h"
-
 template<typename _ItemType> class IContainer
 {
 public:
-
-	Container()
+	IContainer()
 	{
 	}
 
-	~Container()
+	~IContainer()
 	{
 	}
 
-	void PushBack(const _ItemType &Item) {};
-	void PopBack(const _ItemType &Item) {};
+	virtual void PushBack(const _ItemType &Item) = 0;
+	virtual void PopBack() = 0;
 
-	IIterator<_ItemType> Begin() {};
-	IIterator<_ItemType> End() {};
+	virtual IIterator<_ItemType>* GetIterator() = 0;
+	virtual void FreeIterator(IIterator<_ItemType>*) = 0;
 };
-

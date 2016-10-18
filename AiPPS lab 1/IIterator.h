@@ -3,12 +3,12 @@ template<typename _ItemType> class IIterator
 {
 public:
 
-	IIterator(){}
+	IIterator() {}
 
-	~IIterator(){}
+	~IIterator() {}
 
-	public virtual void Next() {};
+	virtual void Next() = 0;
 
-	public virtual _ItemType& GetItem() {};
+	virtual _ItemType& GetItem() = 0;
+	virtual bool IsEnd() = 0;
 };
-
