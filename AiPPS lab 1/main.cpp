@@ -2,7 +2,7 @@
 #include <list>
 //#include <algorithm>
 #include <random>
-
+int ura_durak;
 template <typename _elem_type>
 class List
 {
