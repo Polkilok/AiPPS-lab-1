@@ -1,4 +1,4 @@
-#include <iomanip>
+#pragma once
 #include <iostream>
 #include <string>
 #include "TimeImp.h" 

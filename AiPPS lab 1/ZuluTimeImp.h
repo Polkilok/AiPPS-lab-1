@@ -1,5 +1,4 @@
 #pragma once
-#include <iomanip>
 #include <iostream>
 #include <string>
 #include "TimeImp.h" 
@@ -17,7 +16,7 @@ public:
 
 	/* virtual */
 	void tell() {
-		std::cout << "time is " << std::setw(2) << std::setfill(48) << hr_ << min_ << zone_ <<
+		std::cout << "time is " << hr_ << "  " << min_ << "  " << zone_ <<
 			std::endl;
 	}
 protected:
