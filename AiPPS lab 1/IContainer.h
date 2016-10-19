@@ -7,7 +7,7 @@ public:
 	{
 	}
 
-	~IContainer()
+	virtual ~IContainer()
 	{
 	}
 

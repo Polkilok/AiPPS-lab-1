@@ -8,9 +8,12 @@
 
 class Time {
 public:
-	Time() {}
+	Time() { imp_ = nullptr; }
 	Time(int hr, int min) {
 		imp_ = new TimeImp(hr, min);
+	}
+	virtual ~Time() {
+		delete imp_;
 	}
 	virtual void tell() {
 		imp_->tell();

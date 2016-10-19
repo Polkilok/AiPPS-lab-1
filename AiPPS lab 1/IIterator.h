@@ -5,7 +5,7 @@ public:
 
 	IIterator() {}
 
-	~IIterator() {}
+	virtual ~IIterator() {}
 
 	virtual void Next() = 0;
 
