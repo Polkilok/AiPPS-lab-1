@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CivilianTime">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Bridge.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZuluTime">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Bridge.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CivilianTimeImp">
+    <Position X="0.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAA=</HashCode>
+      <FileName>CivilianTimeImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CycleListIterator&lt;_ElemType&gt;">
+    <Position X="9.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAEAAAABAEAAAABAAAQAAAAAAAAABAAA=</HashCode>
+      <FileName>CycleList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CycleList&lt;_ElemType&gt;">
+    <Position X="12.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAgCAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAhAAI=</HashCode>
+      <FileName>CycleList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IContainer&lt;_ItemType&gt;">
+    <Position X="12.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAACAgAAI=</HashCode>
+      <FileName>IContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IIterator&lt;_ItemType&gt;">
+    <Position X="9.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAABAAAAEAAAAAAEAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>IIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAQA=</HashCode>
+      <FileName>Time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeImp">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZuluTimeImp">
+    <Position X="3" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZuluTimeImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Cell&lt;_ElemType&gt;">
+    <Position X="14.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAABAAAAAAAAAAAAgAACAAAAAAAA=</HashCode>
+      <FileName>CycleList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

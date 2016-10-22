@@ -19,7 +19,7 @@ template<typename _ElemType> struct Cell
 };
 
 template<typename _ElemType>
-class CycleListIterator :IIterator<_ElemType>
+class CycleListIterator : public IIterator<_ElemType>
 {
 private:
 	Cell<_ElemType> *_it;
@@ -51,7 +51,7 @@ public:
 };
 
 template<typename _ElemType>
-class CycleList : IContainer<_ElemType>
+class CycleList : public IContainer<_ElemType>
 {
 public:
 
