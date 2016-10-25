@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Programs\VS projects\AiPPS lab 1\AiPPS lab 1\CycleList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Programs\VS projects\AiPPS lab 1\AiPPS lab 1\CycleList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Programs\VS projects\AiPPS lab 1\AiPPS lab 1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FB3DF741-EE92-3666-8839-F7944E86364A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0080C9B9-422D-3DDC-A789-D52B12B98948}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

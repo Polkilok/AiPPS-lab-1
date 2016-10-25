@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Programs\VS projects\AiPPS lab 1\CMakeBuild\CMakeFiles\30b51490168d80fdeefba44bd29f5563\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3855F3E9-26B7-311D-8ECF-5BEFEC7E4813}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

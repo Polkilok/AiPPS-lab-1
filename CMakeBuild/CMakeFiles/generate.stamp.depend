@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+D:/Programs/VS projects/AiPPS lab 1/AiPPS lab 1/CMakeLists.txt
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/3.7.0-rc1/CMakeSystem.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/3.7.0-rc1/CMakeCCompiler.cmake
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/3.7.0-rc1/CMakeCXXCompiler.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeSystemSpecificInformation.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeGenericSystem.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/Platform/Windows.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/Platform/WindowsPaths.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeCInformation.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/Platform/Windows-MSVC-C.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/3.7.0-rc1/CMakeRCCompiler.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeRCInformation.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeCXXInformation.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/Compiler/MSVC-CXX.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+D:/ProgramUtils/cmake-3.7.0-rc1-win64-x64/share/cmake-3.7/Modules/FindBoost.cmake

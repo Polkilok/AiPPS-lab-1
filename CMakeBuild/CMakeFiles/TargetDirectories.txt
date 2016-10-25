@@ -1,0 +1,4 @@
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/CycleList.dir
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/bridge.dir
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/ALL_BUILD.dir
+D:/Programs/VS projects/AiPPS lab 1/CMakeBuild/CMakeFiles/ZERO_CHECK.dir
